@@ -1,5 +1,3 @@
-# grant-compliance-monitor
-
 # Grant Compliance Monitor
 
 An AI-powered grant compliance analysis tool that reads awarded grant documents, identifies compliance risks, generates progress report templates, and provides actionable recommendations - built with Google ADK, Vertex AI, and Cloud Firestore for persistent session storage.
